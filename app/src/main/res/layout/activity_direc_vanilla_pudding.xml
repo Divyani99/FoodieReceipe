@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecVanillaPudding">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/anormal"
+        android:text="firstly, in a large mixing bowl take 1 tsp of agar-agar / gelatin and add 2 tbsp hot water.\n\n
+mix well and dissolve agar-agar completely.\n\n
+further add 2 cups of mango puree.\n\n
+mix well making sure the pulp gets mixed up with agar-agar uniformly.\n\n
+furthermore, place the serving glass in a bowl so that it gets tilted slightly.\n\n
+pour in prepared mango mixture till it reaches the rim.\n\n
+now refrigerate it for 2 hours or overnight, till it sets completely.\n\n
+after 2 hours, make sure to check the mango has set completely.\n\n
+now prepare cream layer by heating up milk.\n\n
+add in 1 tsp agar-agar / gelatin and whisk well.\n\n
+cook the milk on medium-low heat till it steams (do not boil).\n\n
+further add 1 cup cream and whisk well.\n\n
+additionally add 1/2 cup powdered sugar, 1 tsp vanilla extract and pinch of salt.\n\n
+whisk and dissolve the sugar completely.\n\n
+let the milk cool for 10 minutes before pouring to the glass.\n\n
+pour the milk into glass.\n\n
+refrigerate it for 2 hours or overnight, till it sets completely.\n\n
+finally, garnish with few chopped mangoes and enjoy mango panna cotta or mango pudding."
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+</RelativeLayout>

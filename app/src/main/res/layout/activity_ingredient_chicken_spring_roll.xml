@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngredientsChapataSalad">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:text="
+*chicken mince 1 cup\n
+*Spring roll sheets 12-16\n
+*Oil 2 tablespoons for deep-frying\n
+*Garlic chopped 1 tablespoon\n
+*Ginger chopped 1 tablespoon\n
+*Cabbage shredded 1/2 cup\n
+*Carrots cut into juliennes,2 medium\n
+*Soy sauce 1 teaspoon\n
+*Oyster sauce 5 teaspoons\n
+*Salt to taste\n
+*Crushed black peppercorns to taste\n
+*Spring onion greens chopped,1-2\n
+*Refined flour (maida) 2-3 tablespoons\n
+*Rice vinegar 1/2 teaspoon\n
+*Crushed red chillies 1/2 teaspoon"/>
+
+</RelativeLayout>

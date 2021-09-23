@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreSprinOnionParatha">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="•	2 cup wheat flour\n
+•	1/4 tsp turmeric\n
+•	3/4 tsp kashmiri red chilli powder\n
+•	1/4 tsp cumin powder\n
+•	1/2 tsp garam masala\n
+•	1/2 tsp aamchur\n
+•	1/4 tsp ajwain / carom seeds\n
+•	1 tsp ginger paste\n
+•	1 cup spring onion, finely chopped\n
+•	1/2 tsp salt\n
+•	2 tbsp oil\n
+•	water, for kneading\n
+•	oil, for roasting\n
+"/>
+
+</RelativeLayout>

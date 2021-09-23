@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecPalakPulao">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fontFamily="@font/anormal"
+    android:textSize="25sp"
+    android:textColor="#000000"
+    android:textStyle="bold"
+    android:text="1.	firstly, in wide pan, take a tsp of ghee. optionally, you can use oil.\n\n
+2.	add chopped onions and green chilli. fry till they turn translucent.\n\n
+3.	time to add finely chopped palak leaves and fry for a minute till they shrink and change its colour.\n\n
+4.	once the palak leaves are cooked, add peas and fry till the peas are cooked.\n\n
+5.	finally, add cooked rice and salt to taste.\n\n
+6.	mix well without breaking rice grains. cook for a minute.\n\n
+7.	finally, serve palak pulao with raita or as it is.\n\n
+
+
+"/>
+</RelativeLayout>

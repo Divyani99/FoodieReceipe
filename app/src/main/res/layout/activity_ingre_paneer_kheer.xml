@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngrePaneerKheer">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="3 cups full fat whole milk or 750 ml\n\n
+1/2 cup crumbled chenna or grated paneer or 50 grams of chenna or paneer (cottage cheese)\n\n
+5 to 6 tablespoon sugar or as required\n\n
+3 to 4 green cardamoms - powdered in a mortar-pestle\n\n
+12 to 15 unsalted almonds - chopped or sliced\n\n
+12 to 15 unsalted pistachios - chopped or sliced\n\n
+12 to 15 unsalted cashews - chopped or sliced\n\n
+5 to 6 strands of saffron - optional\n\n
+1 to 1.5 teaspoon rose water or one drop of rose essence (optional)"/>
+</RelativeLayout>

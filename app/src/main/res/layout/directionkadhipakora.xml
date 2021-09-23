@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+android:textSize="25dp"
+        android:fontFamily="@font/architects_daughter"
+        android:textColor="#FFC107"
+        android:id="@+id/txt1"
+        android:text="ONION PAKORA RECIPE:"/>
+
+    <TextView
+        android:id="@+id/txt2"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="61dp"
+        android:fontFamily="@font/anormal"
+        android:text="1.firstly, take sliced onions, chilli powder, turmeric powder, salt and green chilli.\n\n
+2.	also add besan and make a dough kinda batter.\n\n
+3.	furthermore, make small balls and deep fry the pakoras.\n\n
+4.	finally, once turned golden brown, drain and keep aside."
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt2"
+        android:layout_marginTop="3dp"
+
+        android:fontFamily="@font/architects_daughter"
+        android:text="	BESAN CURD MIXTURE RECIPE:"
+
+        android:textColor="#FFC107"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:layout_below="@id/txt3"
+        android:textColor="#000000"
+        android:fontFamily="@font/anormal"
+        android:text="\n
+1.	firstly, in a large mixing bowl, take curd and besan.\n\n
+2.	also add turmeric, chilli powder, ginger-garlic paste and salt. mix it properly\n\n
+3.	further add 1 cup of water, whisk and keep aside.\n\n
+
+"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt5"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt4"
+        android:layout_marginTop="-434dp"
+
+        android:fontFamily="@font/architects_daughter"
+        android:text="KADHI PAKORA RECIPE:"
+
+        android:textColor="#FFC107"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/txt6"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt5"
+        android:fontFamily="@font/anormal"
+        android:text="
+1.firstly take oil, and temper mustard, jeera, methi, coriander seeds, red chilli, cinnamon, curry leaves.\n\n
+2.add finely chopped onions and ginger-garlic paste.\n\n
+3.now add prepared besan-curd mixture and mix for 15 mins.\n\n
+4.later, the mixture will start to thicken.\n\n
+5.finally, top with onion pakoras, coriander leaves and serve.\n\n
+"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+</RelativeLayout>
+

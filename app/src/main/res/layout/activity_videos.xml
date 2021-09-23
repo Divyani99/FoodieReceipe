@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Videos"
+    android:padding="24dp"
+    android:background="#000000">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:text="Foodie"
+                android:textColor="@color/colorAccent"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:text="Videos"
+                android:textSize="24dp"
+                android:textColor="#ffffff"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tikkatxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recipe for Panner Tikka Masala"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/Linkgoogle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://www.youtube.com/watch?v=UrF11axPgB4"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
+
+    <WebView
+        android:id="@+id/webview1"
+        android:layout_width="304dp"
+        android:layout_height="480dp"
+        android:layout_marginTop="200dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirectionBhindiTambuli">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:text="*5 - 6 medium sized okra / bhindi
+* 1 cup yogurt / curd\n
+* salt as required\n
+* 2 tbsp oil\n
+* 1 tsp ghee / coconut oil\n
+* ½ tsp mustard seeds\n
+* pinch asafoetida/hing\n
+* ½ tsp cumin seeds\n
+* 1 - 2 red chilli"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

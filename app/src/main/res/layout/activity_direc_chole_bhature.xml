@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecCholeBhature">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="25sp"
+    android:fontFamily="@font/anormal"
+    android:textStyle="bold"
+    android:textColor="#000000"
+    android:text="
+ Step 1: firstly, in a cooker heat oil.\n\n
+ Step 2: furthermore, saute bay leaf, cinnamon stick and cumin seeds till they turn aromatic.\n\n
+ Step 3: add finely chopped onions and ginger-garlic paste. saute till it turns golden brown.\n
+also add tomatoes and saute till they start releasing oil.\n\n
+ Step 4: further, add chilli powder, turmeric, coriander powder, cumin powder, aamchur powder, garam masala and salt. saute for a minute.
+then add soaked chickpea. make sure to soak chickpea overnight.\n
+followed by 2 cups of water.\n\n
+ Step 5: further, give a good mix. and check the seasonings.\n\n
+ Step 6: pressure cook for 7-8 whistles on medium flame.\n\n
+ Step 7: allow the pressure to release by itself before opening cooker.\n\n
+ Step 8: mix well and garnish coriander leaves.\n\n
+ Step 9: finally, serve with bhatura\n"/>
+</RelativeLayout>

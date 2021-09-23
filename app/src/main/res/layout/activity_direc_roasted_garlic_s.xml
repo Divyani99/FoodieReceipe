@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecRoastedGarlicS">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:text="1. Heat 1 tablespoon oil in a heavy skillet, add 1 1/2 tablespoons garlic and roast it till golden brown.\n\n
+
+2. Add 72 grams onions and saute for 2 - 3 minutes.\n\n
+
+3. Add 40 grams cashews and roast it for2 - 3 minutes on medium heat.\n\n
+
+4. Add 395 grams green peas, 1 teaspoon salt, 1 teaspoon black salt and mix it or stir it for a minute.\n\n
+
+5. Add 660 milliliters water and boil it for 5 - 10 minutes till peas become soft.\n\n
+
+6. Now, let it be cool down little bit.\n\n
+
+7. Transfer it to blender and blend it till smooth and creamy texture.\n\n
+
+8. Again cook it till boil.\n\n
+
+9. Garnish with cashew cream, black pepper.\n\n
+
+10. Serve hot.\n\n
+"/>
+
+</RelativeLayout>

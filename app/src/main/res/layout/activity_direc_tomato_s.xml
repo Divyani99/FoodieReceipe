@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecTomatoS">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:text="Heat 1 1/2 teaspoons butter in a pressure cooker, add 1 bay leaf, 30 grams carrots and mix it well.\n\n
+Add 500 grams tomato and mix it well.\n\n
+Cook for 5 - 7 minutes on medium heat.\n\n
+Add 1/2 teaspoon salt, 500 millilites water and mix it again.\n\n
+Cover it with lid and cook until you hear 2 whistles.\n\n
+Open the lid and remove it from heat.\n\n
+Allow it to cool for about 10 minutes.\n\n
+Transfer this into a blender and blend it into a paste.\n\n
+Transfer this puree into a pot and stir well.\n\n
+Then, add 1 tablespoon powdered sugar, 1/2 teaspoon black pepper, 1/4 teaspoon roasted cumin powder, 1/4 teaspoon salt and mix it well.\n\n
+Bring it to a boil.\n\n
+Boil for 8 - 10 minutes on medium heat.\n\n
+Remove it from heat.\n\n
+             Serve hot.
+"/>
+
+</RelativeLayout>

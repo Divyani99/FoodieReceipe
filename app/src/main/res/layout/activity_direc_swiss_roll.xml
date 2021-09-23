@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecSwissRoll">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:text="firstly, in a large bowl take 1/2 cup milk, 1/4 cup oil, 1 tsp vinegar and 1 tsp vanilla extract.\n\n
+whisk well until everything is well combined.\n\n
+now place a sieve and add 3/4 cup maida, 1/4 cup cocoa powder, 1/2 cup powdered sugar, 1/2 tsp baking powder, 1/4 tsp baking soda and 1/4 tsp salt.\n\n
+sieve well making sure there are no lumps.\n\n
+mix gently using cut and fold method until the batter is well combined.\n\n
+add 2 tbsp milk if required and mix gently.\n\n
+prepare a smooth cake batter.\n\n
+grease the frying pan with oil to prevent from sticking.\n\n
+pour 2 ladle full of cake batter over pan and spread uniformly\n\n
+place on the gas stove and cover with a lid.\n\n
+simmer and cook on low flame for 8 minutes.\n\n
+or cook until toothpick inserted comes out clean.\n\n
+transfer the cake over butter paper. be careful as the cake may break.\n\n
+dust with powdered sugar to prevent from sticking.\n\n
+roll gently when the cake is warm and rest for 30 minutes. this helps the cake to bend easily and not break.\n\n
+meanwhile, prepare frosting by taking 1 cup chilled whipping cream.\n\n
+also, add 2 tbsp powdered sugar and 1 tsp vanilla extract.\n\n
+beat on low speed until the cream thickens.\n\n
+after 5 minutes, the cream turns stiff peaks.\n\n
+open the rolled cake without breaking.\n\n
+spread a generous amount of prepared whipping cream.\n\n
+roll gently, and wrap with cling wrap.\n\n
+refrigerate for 30 minutes or until it sets completely.\n\n
+finally, cut into thick slice and enjoy chocolate swill roll with a cherry.\n\n"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

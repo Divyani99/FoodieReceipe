@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="noodle_manchrian_frankie"><![CDATA[Noodle & Manchrian Frankie]]></string>
+    <string name="corn_vegetable_cutlets"><![CDATA[Corn & Vegetable Cutlets]]></string>
+    <string name="paneer_corn_chatpata_salad"><![CDATA[Paneer & Corn Chatpata Salad]]></string>
+
+    <string name="paneer_corn_chapata_salad"><![CDATA[Paneer & Corn Chapata Salad]]></string>
+    <string name="noodles_manchurian_frankie"><![CDATA[Noodles & Manchurian Frankie]]></string>
+    <string name="easy_and_delicious_recipies_videos"><![CDATA[Easy and Delicious Recipies & Videos]]></string>
+    <string name="start" >Start</string>
+    <string name="next" >Next</string>
+    <string name="recipies_videos"><![CDATA[Recipies & Videos]]></string>
+
+    <string name="my_preference">com.example.com.MyPref</string>
+    <string name="my_preference_key">com.example.com.MyPrefKey</string>
+    <string name="and"><![CDATA[Recipies & Videos]]></string>
+
+
+</resources>

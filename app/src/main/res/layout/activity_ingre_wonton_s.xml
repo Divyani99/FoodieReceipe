@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreWontonS">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="
+Minced chicken - 200 grams\n
+
+Shrimps - 180 grams\n
+
+Green onions - 2 tablespoons\n
+
+Garlic - 1 tablespoon\n
+
+Ginger - 1 tablespoon\n
+
+Powdered sugar - 1 1/2 tablespoons\n
+
+Salt - 1 teaspoon\n
+
+Light soy sauce - 1 teaspoon\n
+
+Sesame oil - 1 teaspoon\n
+
+Chinese cooking wine - 1 1/2 teaspoons\n
+
+All purpose flour - 130 grams\n
+
+Salt - 1/4 teaspoon\n
+
+Sugar - 1 teaspoon\n
+
+Egg - 1\n
+
+Water - 45 milliliters\n
+
+Chicken stock - 1200 milliliters\n
+
+Ginger - 10 grams\n
+
+Garlic - 10 grams\n
+
+Light soy sauce - 1 teaspoon\n
+"/>
+
+</RelativeLayout>

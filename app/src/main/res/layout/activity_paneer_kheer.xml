@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".PaneerKheer">
+
+    <TextView
+        android:id="@+id/pkkd"
+
+        android:layout_width="223dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="207dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="385dp"
+        android:background="@drawable/grad4"
+        android:fontFamily="@font/autour_one"
+        android:text="Direction"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pkki"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginBottom="385dp"
+
+        android:background="@drawable/grad4"
+        android:fontFamily="@font/autour_one"
+        android:text="Ingredient"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textColorHint="#FFC107"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="401dp"
+        android:layout_height="366dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="0dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/viewPagerpaneerkheer"
+                android:layout_width="match_parent"
+                android:layout_height="1000dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="-150dp"
+                android:layout_marginEnd="0dp"
+                android:layout_marginBottom="168dp" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/des5" />
+
+</RelativeLayout>

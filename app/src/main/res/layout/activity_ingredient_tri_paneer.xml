@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngredientTriPaneer">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:fontFamily="@font/anormal"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:text="*250 gms paneer diced\n
+*1 capsicum diced\n
+*1 onion diced\n
+*1 tomato deseeded and diced\n
+*2 tsp ginger garlic paste\n
+*1 tsp ajwain or carom seeds\n
+*1 tsp mustard oil\n
+*2 tsp butter\n
+*1/2 tsp black pepper powder\n
+*3/4 th tsp salt\n
+*2 tsp mint coriander chutney\n
+*Pinch red colour\n
+*1/2 cup onion roundals\n
+*1/2 cup thick hung curd\n
+*1 tsp chaat masala"/>
+
+</RelativeLayout>

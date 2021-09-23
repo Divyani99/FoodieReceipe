@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FF9800"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR NOODLES:"/>
+
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt1"
+        android:layout_marginTop="-5dp"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="*3 tsp oil\n
+*3 tbsp spring onion, chopped\n
+*1/4 capsicum, thinly sliced\n
+*1 cup cabbage, shredded\n
+*2 tsp schezwan sauce\n
+*1/4 tsp salt\n
+*2 cup noodles, cooked\n
+
+"/>
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_below="@id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FF9800"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="OTHER INGREDIENTS:"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt3"
+        android:fontFamily="@font/anormal"
+        android:text="
+*4 chapathi, leftover\n
+*butter for roasting\n
+*4 tspschezwan sauce\n
+*4 tsp tomato sauce\n
+*1 tsp chaat masala\n
+
+\n
+"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</RelativeLayout>

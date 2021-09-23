@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecChicSpringRolls">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+
+       android:textColor="#000000"
+        android:text="
+Step 1:
+Heat oil in a non-stick pan. Add garlic and ginger and sauté well. Add cabbage and carrot and toss on high heat.\n\n
+Step 2:
+Add chicken mince, soy sauce, 2 teaspoons oyster sauce, salt and crushed peppercorns and mix well. Cook on high heat for 2-3 minutes.\n\n
+Step 3:
+Reserve some of the spring onion greens and add the remaining, switch off heat and mix well. Transfer onto a plate and let the mixture cool.\n\n
+Step 4:
+Mix flour with some water and mix to make a thick paste.\n\n
+Step 5:
+Place the spring roll sheets on a worktop. Put a portion of the cooked mixture on one side of each sheet and roll along with folding the edges. Apply the prepared paste on the edges and seal tightly.\n\n
+Step 6:
+Heat sufficient oil in a pan. Deep-fry the rolls till golden. Drain on absorbent paper.\n\n
+Step 7:
+To make the sauce, combine remaining soy sauce, vinegar, crushed red chillies, crushed peppercorns and reserved spring onion greens in a bowl. Add some water and mix well.\n\n
+Step 8:
+Serve hot with the prepared sauce."
+        android:textSize="25sp"
+        android:textStyle="bold" />
+</RelativeLayout>

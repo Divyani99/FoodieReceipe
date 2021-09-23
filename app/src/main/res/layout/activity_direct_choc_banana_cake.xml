@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirectChocBananaCake">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="firstly, in a blender take 2 banana and 3/4 cup sugar\n\n
+blend to smooth puree without adding any water\n\n
+transfer the banana puree into a large bowl.\n\n
+add 1/2 cup oil, 1 tsp vanilla extract and 1 tsp vinegar.\n\n
+whisk well until everything is well combined.\n\n
+place a sieve and add 1 1/2 cup maida, 1/2 cup cocoa powder, 1 tsp baking powder, 1/4 tsp baking soda and 1/4 tsp salt.\n\m
+sieve the flour making sure there are no lumps.\n\
+mix well using cut and fold method.\n\n
+further, add 1/2 cup water and mix well.\n\n
+mix to a thick cake batter consistency.\n\n
+also, add 1/4 cup walnut and mix gently.\n\n
+transfer the cake batter to a cake tin. make sure to grease the mould and place a butter paper at the bottom to avoid sticking. \n\n
+top with 3 tbsp chocolate chip over it.\n\n
+place the cake tray into the preheated oven. bake the cake at 180 degree celsius or 356 degrees fahrenheit for 40 minutes.\n\n
+or bake till the toothpick inserted comes out clean.\n\n
+further, allow the cake to cool completely and later cut into thick slices and serve.\n\n
+finally, serve the eggless chocolate banana cake or store in an airtight container."/>
+</RelativeLayout>

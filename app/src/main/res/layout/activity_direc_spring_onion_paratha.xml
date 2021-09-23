@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecSpringOnionParatha">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="1.	firstly, in a large bowl take 2 cup wheat flour, 1/4 tsp turmeric, ¾ tsp chilli powder, ¼ tsp cumin powder and ½ tsp garam masala.\n\n
+2.	also add 1/2 tsp aamchur, 1/4 tsp ajwain, 1 tsp ginger paste, 1 cup spring onion and 1/2 tsp salt.\n\n
+3.	mix well making sure all the spices are well combined.\n\n
+4.	further, add 2 tbsp oil and mix well.\n\n
+5.	now add water as required and knead the dough.\n\n
+6.	knead to a smooth and soft dough adding water as required.\n\n
+7.	cover and rest for 20 minutes.\n\n
+8.	now pinch a small ball sized dough\n\n.
+9.	dust with wheat flour and flatten slightly.\n\n
+10.	grease oil in centre and fold to a square.\n\n
+11.	dust with wheat flour as required and roll square.\n\n
+12.	roll gently making sure the layers are not pressed completely.\n\n
+13.	now on a hot tawa place the rolled paratha and cook for a minute.\n\n
+14.	furthermore, when the base is partly cooked, flip the masala paratha.\n\n
+15.	also, spread ½ tsp olive oil / ghee and press slightly both the sides.\n\n
+16.	flip again once or twice till both the sides are cooked properly.\n\n
+17.	finally, serve spring onion paratha with raita and pickle.\n\n
+"/>
+</RelativeLayout>

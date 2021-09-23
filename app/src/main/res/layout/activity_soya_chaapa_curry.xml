@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SoyaChaapaCurry"
+    android:id="@+id/relative">
+
+    <TextView
+        android:id="@+id/scd"
+        android:layout_width="181dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/autour_one"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/grad4"
+        android:layout_marginStart="207dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="363dp"
+        android:text="Direction"
+        android:textAlignment="center"
+        android:textColor="#A4090303"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/sci"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginBottom="360dp"
+
+        android:text="Ingredient"
+        android:fontFamily="@font/autour_one"
+        android:background="@drawable/grad4"
+        android:textAlignment="center"
+        android:textColor="#A4070501"
+        android:textColorHint="#FFC107"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="333dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/viewPagersoyachaap"
+                android:layout_width="match_parent"
+                android:layout_height="1500dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="-150dp"
+                android:layout_marginEnd="0dp"
+                android:layout_marginBottom="168dp" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="212dp"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/b3" />
+
+</RelativeLayout>
+
+
+
+

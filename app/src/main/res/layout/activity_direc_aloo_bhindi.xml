@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecAlooBhindi">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="1.	firstly, in a large kadai heat 2 tbsp oil and roast 2 potato.\n\n
+2.	roast on medium flame until it turns golden and crisp.\n\n
+3.	keep the roasted potato aside.\n\n
+4.	now in the same oil, add in bhindi.\n\n
+5.	roast on medium flame without burning.\n\n
+6.	now keep the crispy bhindi aside.\n\n
+7.	in the same kadai heat 3 tsp oil and saute 1 tsp cumin until it turns aromatic.\n\n
+8.	add in 1/2 onion, 1 tsp ginger garlic paste and saute well.\n\n
+9.	saute until it turns golden brown.\n\n
+10.	keeping the flame on low, add 1/4 tsp turmeric, 1 tsp chilli powder, 1/4 tsp cumin powder, 1 tsp coriander powder, 1 tsp aamchur, 1/4 tsp garam masala and 1/2 tsp salt.\n\n
+11.	saute on low flame until it turns aromatic.\n\n
+12.	add in roasted aloo and bhindi.\n\n
+13.	mix well making sure all the spices are well coated.\n\n
+14.	now add 1 tsp kasuri methi and mix gently.\n\n
+15.	finally, aloo bhindi recipe tastes great as a side dish with roti or rice.\n\n
+
+"/>
+
+</RelativeLayout>

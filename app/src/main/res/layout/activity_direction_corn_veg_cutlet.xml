@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirectionCornVegCutlet">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:text="
+Step 1. In a blender, add 80 grams sweet corn and blend it into paste.\n\n
+Step 2. Heat 1/2 teaspoon oil in a pan, add blended sweet corn, 65 grams carrots, 45 grams cabbage and mix it well.\n\n
+Step 3. Cook for 5 - 7 minutes on medium heat.\n\n
+Step 4. Add 1/2 teaspoon salt, 1/8 teaspoon black pepper and mix it well.\n\n
+Step 5. Transfer this into a mixing bowl, add 190 grams boiled potatoes, 50 grams grated paneer and mix it well.\n\n
+Step 6. Take some mixture in your hands and shape it into a cutlet.\n\n
+Step 7. Heat some oil in a pan and shallow fry these until golden brown and crisp from all sides.\n\n
+Step 8. Remove it from heat.\n\n
+Step 9. Serve.\n
+
+"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreCholeMasala">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="
+ 1 cup chole / chickpea, soaked overnight\n
+4 tbsp oil / butter\n
+1 bay leaf\n
+1 inch cinnamon stick\n
+1/2tsp cumin seeds\n
+1 onion, finely chopped\n
+1 tsp ginger-garlic paste\n
+2 to matoes, finely chopped\n
+1 tbsp kashmiri chilli powder\n
+1/2 tsp turmeric powder\n
+1 tsp coriander powder\n
+1/2 tsp cumin powder\n
+3/4 tsp aamchur powder / dry-mango powder\n
+salt to taste\n
+1/2 tsp garam masala\n
+2 cups water\n
+2 tsp coriander leaves, finely chopped\n
+1/2 lemon juice, optional\n"/>
+
+</RelativeLayout>

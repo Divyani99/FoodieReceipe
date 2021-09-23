@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecDalPakwan">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/anormal"
+        android:text="Step 1:
+to serve, take chana dal in a \n             bowl and top with 1 tsp of green\n           chutney and tamarind chutney.\n\n
+Step 2: also top with 2 tsp of chopped\n             onion, a pinch of chaat masala and \n             coriander.\n\n
+Step 3: finally, enjoy pakwan with chana\n             dal as dal pakwan.
+
+"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

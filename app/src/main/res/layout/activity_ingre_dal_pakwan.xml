@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreDalPakwan">
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR CHANA DAL:"/>
+
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt1"
+        android:layout_marginTop="-5dp"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:text="•1 cup chana dal, soaked 1 hour\n
+• 4 cup water\n
+•1 tsp ghee / clarified butter\n
+•1/2 tsp cumin / jeera\n
+•2 green chilli, slit\n
+•few curry leaves\n
+•1/2 TOmato, finely chopped\n
+•1/2 tsp turmeric / haldi\n
+•	1/2 tsp kashmiri red chilli powder\n
+•	1/2 tsp pepper, crushed\n
+•	1/2 tsp aamchur / dry mango powder\n
+•	pinch asafoetida / hing\n
+•	3/4 tsp salt\n
+•	1/2 tsp jaggery / gud\n
+•	1/4 tsp garam masala\n
+•	2 tbsp coriander, finely chopped\n" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_below="@id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR PAKWAN (CRISPY POORI):"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt3"
+        android:fontFamily="@font/anormal"
+        android:text="
+•	1 cup wheat flour / atta\n
+•	1 cup maida / plain flour\n
+•	1/2  tsp pepper, crushen\n
+•	1/4 tsp ajwain / carom\n
+•	1/4tsp cumin / jeera\n
+•	1/4 tsp salt\n
+•	2 tbsp rava / semolina / suji\n
+•	2 tbsp oil, hot\n
+•	water to knead\n
+•	oil for deep frying\n
+\n
+"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+<TextView   android:id="@+id/txt5"
+    android:layout_below="@id/txt4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR SERVING:"/>
+
+    <TextView
+        android:id="@+id/txt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt5"
+        android:fontFamily="@font/anormal"
+        android:text="
+••	2 tbsp green chutney\n
+•	2 tbsp tamarind chutney\n
+•	½ onion, finely chopped\n
+•	½ tsp chaat masala\n
+•	2 tsp coriander, chopped\n
+
+"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

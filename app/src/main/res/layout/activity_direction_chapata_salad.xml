@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirectionChapataSalad">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="25dp"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="Step 1
+Cut green capsicum, pickled gherkins and pickled onions into small pieces. Halve the black olives. Put all these into a mixing bowl. Tear lettuce and add. Add boiled corn.\n\n
+Step 2
+For the dressing mix mayonnaise, tomato ketchup, chilli-vinegar sauce and mix. Break half the paneer into small pieces and add.\n\n
+Step 3
+Add 2-3 tbsps dressing and toss the salad ensuring that all the vegetables are well coated with the dressing. Break the remaining paneer and add. Transfer into a serving bowl and serve immediately.\n\n"/>
+</RelativeLayout>

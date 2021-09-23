@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngrePaneerButter">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="•	1 tsp butter\n
+•	1 tsp oil\n
+•	1 onion, sliced\n
+•	1 inch ginger\n
+•	3 clove garlic\n
+•	2 tomato, chopped\n
+•	10 cashew / kaju\n
+•	2 tbsp butter\n
+•	2 pods cardamom\n
+•	1 bay leaf\n
+•	1/4 tsp turmeric\n
+•	1 tsp kashmiri red chilli powder\n
+•	1/4 tsp garam masala\n
+•	1/4 tsp cumin powder\n
+•	1 cup water\n
+•	1/2 tsp sugar\n
+•	1 tsp salt\n
+•	2 tbsp cream\n
+•	20 cubes paneer / cottage cheese\n
+•	2 tbsp coriander, chopped\n
+•	1/2 tsp kasuri methi, crushed\n
+•	1/4 tsp garam masala\n
+"/>
+
+</RelativeLayout>

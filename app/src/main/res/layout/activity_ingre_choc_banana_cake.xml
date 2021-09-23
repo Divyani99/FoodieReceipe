@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreChocBananaCake">
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="TO BLEND:"/>
+
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt1"
+        android:layout_marginTop="-5dp"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:text="2 banana, ripened\n
+3/4 cup (180 gm) sugar
+" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_below="@id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR CAKE BATTER:"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt3"
+        android:fontFamily="@font/anormal"
+        android:text="
+1/2 cup (120 ml) oil
+1 tsp vanilla extract
+1 tsp vinegar
+1 1/2 cup (262 gm) maida / plain flour
+1/2 cup (45 grm) cocoa powder
+1 tsp baking powder
+1/4 tsp baking soda
+1/4 tsp salt
+1/2 cup (120 ml) water
+1/4 cup (30 gm) walnut, chopped
+3 tbsp chocolate chip
+
+"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

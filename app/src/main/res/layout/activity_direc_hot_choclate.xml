@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecHotChoclate">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/anormal"
+        android:text="firstly, in a sauce pan take 2 cup milk.\n\n
+add 1/4 cup cocoa powder, 2 tbsp sugar and 2 tbsp cream.\n\n
+whisk continuously making sure the cocoa powder is well combined.\n\n
+continue to whisk and get the milk to boil.\n\n
+turn off the flame and add 1 tsp vanilla extract. mix well.\n\n
+prepare whipping cream by taking 1 cup chilled whipping cream.\n\n
+also add 2 tbsp powdered sugar and 1 tsp vanilla extract.\n\n
+beat on low speed until the cream thickens.\n\n
+after 5 minutes, the cream turns stiff peaks.\n\n
+pour the hot chocolate into glass and a dollop of whipped cream.\n\n
+finally, enjoy hot chocolate sprinkled with more cocoa powder.\n\n
+"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

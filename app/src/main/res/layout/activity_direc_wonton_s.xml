@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecWontonS">
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_below="@id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:fontFamily="@font/anormal"
+    android:textSize="25sp"
+    android:textColor="#000000"
+    android:textStyle="bold"
+    android:text="
+Step 2\n
+Place stock, carrot and 4 cups cold water in a saucepan over high heat. Bring to the boil. Reduce heat to medium. Simmer for 5 to 7 minutes or until carrot is tender. Add ginger, soy sauce, noodles and wontons. Simmer for 5 minutes or until wontons are cooked through. "/>
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:fontFamily="@font/anormal"
+    android:textSize="25sp"
+    android:textColor="#000000"
+    android:textStyle="bold"
+    android:text="Step 1\n
+Make wontons: Combine mince, onion, ginger and garlic in a bowl. Place a rounded teaspoon of mixture in the centre of 1 wonton wrapper. Brush edges with egg. Fold corners together to form a pouch. Press to secure. Place on a plate. Repeat to make 20 wontons."/>
+
+    </RelativeLayout>

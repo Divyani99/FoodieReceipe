@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="step 1\nrinse the bhindi / okra in water well if it is too dirty. and wipe the bhindi off. else it will be sticky when you chop.\n\n
+step 2.\n chop them into thin slices and keep aside. make sure there isn't trace of water on your chopping board or on knife.\n\n
+step 3.\nheat 1 tablespoon of oil in a pan and fry till they turn crispy and golden brown.\n\n
+step 4.\n stir occasionally so as to uniformly fry. drain the fried bhindi on tissue paper.\n\n
+step 5.\n now whisk the curd. make sure you have taken thick curd and it is not sour.\n\n
+step 6.\ntime to prepare tempering; heat the ghee add in mustard seeds, hing, cumin seeds and red chilli. fry till they splutter.\n\n
+step 7.\n pour the tempering over whisked curd.\n\n
+step 8.\n add in fried okras over the raita. serve bhindi raita immediately with plain rice or with dal -rice, veg pulao.\n
+"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        />
+</RelativeLayout>

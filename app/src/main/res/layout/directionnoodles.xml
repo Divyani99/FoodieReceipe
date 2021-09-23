@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:orientation="vertical"
+tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:text="Step 1: firstly, heat kadai with 3 tsp oil and saute 1 tbsp spring onion.\n\n
+Step 2:	also, saute 1/4 capsicum and 1 cup cabbage till they cook slightly.\n\n
+Step 3:	now add 2 tsp schezwan sauce and 1/4 tsp salt. saute for a minute.\n\n
+Step 4:	add in cooked noodles and mix gently coating well with sauce.\n\n
+Step 5:	further, add 2 tbsp spring onions and give a good mix. keep aside.\n\n
+Step 6:	now heat a tawa with 1/2 tsp butter and warm up chapathi.\n\n
+Step 7:	spread 1 tsp schezwan sauce and 1 tsp tomato sauce over chapathi.\n\n
+Step 8:	place handful of noodles in centre of chapathi.\n\n
+Step 9:	sprinkle some chaat masala.\n\n
+Step 10:now roll tight making sure the stuffing is intact.\n\n
+Step 11:wrap the roti in an aluminium foil or butter paper.\n\n
+Step 12:finally, serve schezwan noodles frankie or pack to kids lunch box.\n\n
+
+"/>
+</RelativeLayout>
+

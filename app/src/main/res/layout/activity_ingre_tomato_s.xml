@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreTomatoS">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:text="
+Butter - 1 1/2 teaspoons\n
+
+Bay leaf - 1\n
+
+Carrots - 30 grams\n
+
+Tomato - 500 grams\n
+
+Salt - 1/2 teaspoon\n
+
+Water - 500 milliliters\n
+
+Powdered sugar - 1 tablespoon\n
+
+Black pepper - 1/2 teaspoon\n
+
+Roasted cumin powder - 1/4 teaspoon\n
+
+Salt - 1/4 teaspoon\n
+
+"/>
+</RelativeLayout>

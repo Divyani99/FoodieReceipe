@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="152dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/dadven"
+        android:text="Sign Up"
+        android:textColor="#B8864F"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/usert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginHorizontal="30dp"
+        android:text=" Name"
+        android:textColor="@color/colorAccent">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/Fname"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="55dp" />
+
+    <TextView
+        android:id="@+id/usert1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginHorizontal="30dp"
+        android:text="User Name"
+        android:textColor="@color/colorAccent">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/lname"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="55dp" />
+
+    <TextView
+        android:id="@+id/passt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginHorizontal="30dp"
+        android:text="Password"
+
+        android:textColor="@color/colorAccent">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="55dp"
+        android:inputType="textPassword"/>
+    <TextView
+        android:id="@+id/passt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginHorizontal="30dp"
+        android:text="Confirm Password"
+        android:textColor="@color/colorAccent">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/cpass"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="55dp"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginHorizontal="30dp"
+       android:layout_marginTop="-20dp"
+        android:background="@drawable/grad"
+        android:onClick="signup"
+        android:text="Sign Up">
+
+    </Button>
+</LinearLayout>

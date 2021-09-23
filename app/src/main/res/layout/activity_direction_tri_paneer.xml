@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:fontFamily="@font/anormal"
+        android:text="Step1:Dice paneer and veggies\n\n
+Step 2:Mix paneer,onion, capsicumtomato,ginger garlic paste,hung curd,ajwain, mustard oil,salt and black pepper.\n\n
+Step 3:Marinate them together for atleast 6hrs.\n\n
+Step 4:Divide them in 3 proportions.1st part as it is.\n\n
+Step 5:Add pinch of red colour in 2nd part\n\n
+Step 6:Add mint coriander chutney in 3rd part\n\n
+Step 7:Now set them in skewers\n\n
+Step 8:In a non stick pan, heat butter. Keep these sticks\n\n
+Step 9:Sprinkle lots of chaat masala on top before serving.\n\n
+Step 10:Serve hot with chutney and onion rings.\n\n"/>
+</RelativeLayout>

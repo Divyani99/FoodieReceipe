@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:fontFamily="@font/autour_one"
+        android:text="FOR ONION PAKORA:\n"
+        android:textColor="#FFC107"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="291dp"
+        android:layout_below="@id/txt1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="63dp"
+        android:fontFamily="@font/anormal"
+        android:text="
+•1/2 onion, thinly sliced\n
+•1/2tsp kashmiri chilli powder\n
+•pinch of turmeric powder\n
+•salt to taste\n
+•1 green chilli, finely chopped\n
+•1/4 cup besan / gram flour\ chickpea flour\n
+•2 tbsp water\n
+•oil for deep frying\n
+
+"
+
+        android:textColor="#090707"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt2"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/autour_one"
+        android:text="•	FOR BESAN - CURD MIXTURE:"
+        android:textColor="#FFEB3B"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="396dp"
+        android:layout_below="@id/txt3"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/anormal"
+        android:text="•1 cup thick curd / yogurt, sour\n
+•1/4 cup besan / gram flour chickpea flour\n
+•pinch of turmeric powder\n
+•3/4 tsp kashmiri chilli powder\n
+•1/2 tsp ginger-garlic paste\n
+•salt to taste\n
+•1 - 1 1/2 cup water\n"
+
+        android:textColor="#0C0B0B"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreMomoS">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:fontFamily="@font/anormal"
+        android:textStyle="bold"
+        android:text="
+All purpose flour - 330 grams\n
+
+Salt - 1/2 teaspoon\n
+
+Olive oil - 2 teaspoons\n
+
+Water - 170 milliliters\n
+
+Olive oil - 2 teaspoons\n
+
+Onions - 100 grams\n
+
+Ginger garlic paste - 1 teaspoon\n
+
+Grated cabbage - 350 grams\n
+
+Grated carrot - 100 grams\n
+
+Grated paneer - 140 grams\n
+
+Vinegar - 1 tablespoon\n
+
+Soy sauce - 1 tablespoon\n
+
+Red chilli sauce - 1/2 tablespoon\n
+
+Salt - 1/4 teaspoon\n
+
+Sesame seeds - 35 grams\n
+
+Cumin seeds - 1 tablespoon\n
+
+Dry red chili - 3\n
+
+Oil - 2 teaspoons\n
+
+Garlic - 1 teaspoon\n
+
+Ginger - 1 teaspoon\n
+
+Tomato - 230 grams\n
+
+Turmeric - 1/2 teaspoon\n
+
+Coriander - 12 grams\n
+
+Salt - 1/2 teaspoon\n
+
+Water - 500 milliliters\n
+
+Sugar - 1/2 teaspoon\n
+
+Lemon juice - 2 tablespoons\n
+"/>
+</RelativeLayout>

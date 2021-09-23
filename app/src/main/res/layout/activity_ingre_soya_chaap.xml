@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreSoyaChaap">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#FFEB3B"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        android:text="FOR SOYA CHAAP STICK (30 STICKS):"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/anormal"
+        android:text="1/2cup soya bean\n
+1/2 cup soya chunks\n
+1 cup maida / plain flour / refined flour\n
+salt to taste\n
+water to boil\n"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp"
+        android:fontFamily="@font/anormal"
+        android:text="FOR SOYA CHAAP CURRY:"
+        android:textColor="#FFEB3B"
+
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="330dp"
+        android:fontFamily="@font/anormal"
+        android:text="2 tbsp oil
+5 soya chaap sticks, prepared
+1 tsp cumin / jeera
+1 bay leaf / tej patta
+1/2 tsp turmeric / haldi
+1 medium sized onion, finely chopped
+1 tsp ginger-garlic paste
+1/2 tsp coriander powder
+1 1/2cups tomato pulp
+1 tsp kashmiri red chilli powder / lal mirch powder
+1/2tsp cumin powder
+salt to taste
+1 cup water
+1/4 cup fresh cream / malai
+1/4 tsp garam masala powder
+2 tbsp coriander leaves, finely chopped
+1/2 tsp kasuri methi / dry fenugreek leaves, crushed"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
+

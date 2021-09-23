@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="#000000">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:text="Foodie"
+            android:textColor="@color/colorAccent"
+            />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:text="BreakFast"
+                android:textSize="24dp"
+                android:textColor="#ffffff"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:onClick="noodleclick"
+
+                app:cardCornerRadius="8dp">
+
+                <LinearLayout
+                    android:layout_width="341dp"
+                    android:layout_height="128dp"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+
+                    <LinearLayout
+                        android:layout_width="329dp"
+                        android:layout_height="134dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="197dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="212dp"
+                                android:layout_height="61dp"
+                                android:text="@string/noodle_manchrian_frankie"
+                                android:textColor="#f22f11"
+                                android:textSize="22dp">
+
+                            </TextView>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="122dp"
+                                        android:layout_height="match_parent"
+                                        android:text="Servings: 4"
+                                        android:textSize="15dp"></TextView>
+
+                                </LinearLayout>
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/textView3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time:- 15 mins"
+                                android:textSize="15dp" />
+
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="84dp"
+                            android:layout_height="96dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/b11" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:onClick="tricolourclick"
+                app:cardCornerRadius="8dp">
+
+                <LinearLayout
+                    android:layout_width="349dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="197dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+
+                                android:text="Tricolour Paneer Tikka's"
+                                android:textColor="#f22f11"
+                                android:textSize="23dp">
+
+                            </TextView>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="122dp"
+                                        android:layout_height="match_parent"
+                                        android:text="Servings:5"
+                                        android:textSize="15dp"></TextView>
+
+                                </LinearLayout>
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/textView5"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time:- 30 mins"
+                                android:textSize="15dp" />
+
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="91dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/b13" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:onClick="chickenspringrolls"
+                app:cardCornerRadius="8dp">
+
+                <LinearLayout
+                    android:layout_width="349dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="197dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+
+                                android:text="Chicken Spring Rolls"
+                                android:textColor="#f22f11"
+                                android:textSize="23dp">
+
+                            </TextView>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="122dp"
+                                        android:layout_height="match_parent"
+                                        android:text="Servings:2"
+                                        android:textSize="15dp"></TextView>
+
+                                </LinearLayout>
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/textView6"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time:- 40 mins"
+                                android:textSize="15dp" />
+
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="91dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/b12" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:onClick="cornveg"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                app:cardCornerRadius="8dp">
+
+                <LinearLayout
+                    android:layout_width="349dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="197dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="188dp"
+                                android:layout_height="63dp"
+
+                                android:text="@string/corn_vegetable_cutlets"
+                                android:textColor="#f22f11"
+                                android:textSize="23dp">
+
+                            </TextView>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="122dp"
+                                        android:layout_height="match_parent"
+                                        android:text="Servings:2-3"
+                                        android:textSize="15dp"></TextView>
+
+                                </LinearLayout>
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/textView7"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time:-30 mins" />
+
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="91dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/b14" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:onClick="paneerandcornchapata"
+                app:cardCornerRadius="8dp">
+
+                <LinearLayout
+                    android:layout_width="345dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="197dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/paneer_corn_chapata_salad"
+                                android:textColor="#f22f11"
+
+                                android:textSize="23dp">
+
+                            </TextView>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="122dp"
+                                        android:layout_height="match_parent"
+                                        android:text="Servings:4"
+                                        android:textSize="15dp"></TextView>
+
+                                </LinearLayout>
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time:-30 mins" />
+
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="91dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="0dp"
+                            android:src="@drawable/b15" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

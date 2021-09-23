@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F39506"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginEnd="30dp"
+
+        android:layout_marginBottom="291dp"
+        android:fontFamily="@font/div"
+        android:text="Foodie"
+        android:textAlignment="center"
+        android:textColor="#F5F3F2"
+        android:textSize="45sp"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/iv1"
+        android:layout_width="wrap_content"
+        android:layout_height="434dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="218dp"
+        app:srcCompat="@drawable/logg" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="412dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginBottom="243dp"
+        android:fontFamily="@font/covered_by_your_grace"
+        android:text="@string/easy_and_delicious_recipies_videos"
+        android:textAlignment="center"
+        android:textColor="#130C0C"
+        android:textSize="25sp" />
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngredientsCornVegCutlet">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:fontFamily="@font/anormal"
+        android:text=
+"Sweet corn - 80 grams\n
+Oil - 1/2 teaspoon\n
+Carrots - 65 grams\n
+Cabbage - 45 grams\n
+Salt - 1/2 teaspoon\n
+Black pepper - 1/8 teaspoon\n
+Boiled potatoes - 190 grams\n
+Grated paneer - 50 grams\n
+Oil - for shallow frying\n
+"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecMomoS">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:text="
+firstly, steam momos by preparing dough and stuffing.\n\n
+
+further prepare soup by dry roasting sesame seeds and cumin till it turns golden.\n\n
+further add oil and roast dried kashmiri red chilli, garlic.\n\n
+add chopped tomato, coriander leaves, ginger, turmeric and salt.\n\n
+blend to smooth paste adding water as required.\n\n
+transfer the prepared masala paste to a large kadai.\n\n
+add in water and sugar.\n\n
+mix well and boil for 5 minutes.\n\n
+turn off the flame add add lemon juice.\n\n
+now place the steamed momos in a plate and pour prepared soup.\n\n
+finally, garnish with coriander leaves and serve paneer momos soup .\n\n"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+</RelativeLayout>

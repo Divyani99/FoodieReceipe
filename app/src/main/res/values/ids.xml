@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewPagerNoodles" type="id" />
+    <item name="directionnoodles" type="id" />
+    <item name="viewPagerKadhiPakora" type="id" />
+    <item name="cbb2" type="id" />
+</resources>

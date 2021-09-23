@@ -1,0 +1,14 @@
+package com.example.homep1;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class DirecChicSpringRolls extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_direc_chic_spring_rolls);
+    }
+}

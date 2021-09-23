@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.homep1">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginPage" />
+        <activity android:name=".PaneerKheer" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".DirecPalakPulao" />
+        <activity android:name=".PalakPulao" />
+        <activity android:name=".IngrePalakPulao" />
+        <activity android:name=".CornVegCutlet" />
+        <activity android:name=".IngrePaneerKheer" />
+        <activity android:name=".DirecPaneerKheer" />
+        <activity android:name=".IngreChocBananaCake" />
+        <activity android:name=".DirectChocBananaCake" />
+        <activity android:name=".IngreSwissRoll" />
+        <activity android:name=".DirecSwissRoll" />
+        <activity android:name=".IngreVanillaPudding" />
+        <activity android:name=".DirecVanillaPudding" />
+        <activity android:name=".IngreHotChoclate" />
+        <activity android:name=".DirecHotChoclate" />
+        <activity android:name=".IngreMomoS" />
+        <activity android:name=".DirecMomoS" />
+        <activity android:name=".IngreTomatoS" />
+        <activity android:name=".DirecTomatoS" />
+        <activity android:name=".IngreMacroniS" />
+        <activity android:name=".DirecChicMacroniS" />
+        <activity android:name=".IngreWontonS" />
+        <activity android:name=".DirecWontonS" />
+        <activity android:name=".DirecRoastedGarlicS" />
+        <activity android:name=".IngreRoastedGarlicS" />
+        <activity android:name=".DirectRoastedGarlicS" />
+        <activity android:name=".IngreSprinOnionParatha" />
+        <activity android:name=".DirecSpringOnionParatha" />
+        <activity android:name=".IngreAlooBhindi" />
+        <activity android:name=".DirecAlooBhindi" />
+        <activity android:name=".DirecChicSpringRolls" />
+        <activity android:name=".IngrePaneerButter" />
+        <activity android:name=".DirecPaneerButter" />
+        <activity android:name=".IngreDalPakwan" />
+        <activity android:name=".DirecDalPakwan" />
+        <activity android:name=".IngreSoyaChaap" />
+        <activity android:name=".DirecSoyaChaap" />
+        <activity android:name=".IngreCholeMasala" />
+        <activity android:name=".DirecCholeMasala" />
+        <activity android:name=".IngreCholeBhature" />
+        <activity android:name=".DirecCholeBhature" />
+        <activity android:name=".DirectionBhindiTambuli" />
+        <activity android:name=".IngredientsChapataSalad" />
+        <activity android:name=".DirectionChapataSalad" />
+        <activity android:name=".DirectionCornVegCutlet" />
+        <activity android:name=".IngredientsCornVegCutlet" />
+        <activity android:name=".DirectionChickenSpringRoll" />
+        <activity android:name=".IngredientChickenSpringRoll" />
+        <activity android:name=".PageChangeChickenSpringRoll" />
+        <activity android:name=".DirectionTriPaneer" />
+        <activity android:name=".IngredientTriPaneer" />
+        <activity android:name=".IngredientsKadhiPakora" />
+        <activity android:name=".PageChangeKadhiPakora" />
+        <activity android:name=".ChoclateBananaCake" />
+        <activity android:name=".SwissRollInnPan" />
+        <activity android:name=".MangoVanillaPudding" />
+        <activity android:name=".HotChoclate" />
+        <activity android:name=".TomatoSoup" />
+        <activity android:name=".PaneerMomoSoup" />
+        <activity android:name=".ChickenMacaroni" />
+        <activity android:name=".WontonSoup" />
+        <activity android:name=".RoastedGarlicSoup" />
+        <activity android:name=".AlooBhindi" />
+        <activity android:name=".SpringOnion" />
+        <activity android:name=".PaneerButter" />
+        <activity android:name=".DalPakwan" />
+        <activity android:name=".PaneerCornChapataSalad" />
+        <activity android:name=".ChickenSpringRolls" />
+        <activity android:name=".TricolourPaneerTikka" />
+        <activity android:name=".Noodle_Manchrian_Frankie" />
+        <activity android:name=".SoyaChaapaCurry" />
+        <activity android:name=".CholeMasala" />
+        <activity android:name=".CholeBature" />
+        <activity android:name=".BhindiTambuli" />
+        <activity android:name=".KadhiPakora" />
+        <activity android:name=".Dessert" />
+        <activity android:name=".Soup" />
+        <activity android:name=".Dinner" />
+        <activity android:name=".Lunch" />
+        <activity android:name=".BreakFast" />
+        <activity android:name=".StartSlider" />
+        <activity android:name=".Favorite"/>
+        <activity android:name=".Videos"/>
+        <activity android:name=".SignUp"/>
+        <activity android:name=".FoodieVideo"/>
+        <activity android:name=".MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

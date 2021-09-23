@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecSoyaChaap">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="
+Step 1: firstly, heat oil and roast soya chaap sticks both the sides. keep aside.\n\n
+Step 2:now saute in cumin and bay leaf till it turns aromatic.\n\n
+Step 3:furthermore, add in onions and saute well.\n\n
+Step 4:additionally, add in ginger-garlic paste and saute.\n\n
+Step 5:now add in tomato pulp.\n\n
+Step 6:stir continuously till the tomato pulp thickens up and releases oil.\n\n
+Step 7:furthermore add in turmeric, chilli powder, coriander powder, cumin powder and salt.\n\n
+Step 8:add in water and cream.\n\n
+Step 9:keeping the flame on low stir continuously.\n\n
+Step 10:further add in roasted soya bean chaap sticks into the curry.\n\n
+Step 11:cover and simmer for 15 minutes.\n\n
+Step 12:now add in garam masala, crushed kasuri methi and coriander leaves.\n\n
+Step 13:finally, serve soya chaap curry along with rice, roti or chapathi.\n\n"/>
+
+
+
+</RelativeLayout>

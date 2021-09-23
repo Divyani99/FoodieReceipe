@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IngreMacroniS">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/anormal"
+        android:text="
+ Water - 1.5 litres\n
+
+Garlic cloves - 7\n
+
+Ginger - 1 tablespoon\n
+
+Salt - 1 teaspoon\n
+
+Black pepper - 1/4 teaspoon\n
+
+Chicken - 640 grams\n
+
+Water - 350 milliliters\n
+
+Tomato - 345 grams\n
+
+Oil - 30 milliliters\n
+
+Garlic - 1 1/2 tablespoons\n
+
+Green chili - 1 tablespoon\n
+
+Macaroni - 150 grams\n
+
+Carrots - 85 grams\n
+
+Bell pepper - 80 grams\n
+
+Cabbage - 75 grams\n
+
+Salt - 1/4 teaspoon\n
+
+White pepper powder - 1/4 teaspoon\n
+
+Chilli flakes - 1/2 teaspoon\n
+
+Oregano - 1/2 teaspoon\n
+
+Soy sauce - 1 tablespoon\n
+
+Chilli sauce - 1 1/2 tablespoons\n
+
+Spring onions - 2 tablespoons\n
+
+Sweet corns - 70 grams\n
+
+Corn flour - 1 tablespoon\n
+
+Water - 30 milliliters\n
+"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

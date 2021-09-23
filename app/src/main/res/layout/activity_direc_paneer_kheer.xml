@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DirecPaneerKheer">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anormal"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="Take milk in a wide bottomed pan or sauce pan and keep it on stove top on a low to medium flame.\n\n
+Whilst the milk comes to a boil, crumble the paneer and keep aside.\n\n
+Crush the cardamoms in a mortar-pestle to a fine powder. Chop the dry fruits and keep aside.\n\n
+When the milk comes to a boil, lower the flame and simmer the milk till it thickens a bit. For about 5 to 6 minutes. Keep stirring the milk at intervals when its simmering. Then add sugar and continue to cook further for 5 minutes.\n\n
+Stir and then add chopped dry fruits (almonds, pistachios, cashews), cardamom powder and saffron. Simmer for 1 or 2 minutes.\n\n
+Add crumbled paneer. You can also grate the paneer and add. Since I was using fresh chenna, I crumbled it. If adding refrigerated or frozen paneer, then you can grate it. If the paneer appears dry, then just soak it warm water and then crumble or grate.\n\n
+Simmer for 2 minutes on a low flame till the crumbled paneer gets cooked. Then add rose water and stir.\n\n
+Serve paneer kheer hot, warm or chilled. The kheer can be had plain and they also taste good with pooris. While serving you can garnish the paneer kheer with few saffron strands or chopped dry fruits or rose petals
+"/>
+</RelativeLayout>
